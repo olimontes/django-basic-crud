@@ -14,7 +14,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 ### **1. Clone o repositório**
 
 ```bash
-git clone <url-do-repositorio>
+git clone (https://github.com/olimontes/django-basic-crud.git)
 cd <pasta-do-repositorio>
 ```
 
