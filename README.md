@@ -94,5 +94,3 @@ A rota **/tarefas** é onde está o formulário e onde todas as operações do C
 Este projeto é open-source e pode ser utilizado livremente para estudos e fins educacionais.
 
 ---
-
-Se quiser, posso adicionar prints das telas, requisitos mínimos, estrutura de diretórios ou um passo a passo de como criar o CRUD.
